@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*$py.class
+mypackage
+test/*
+*.hl
+dist/*

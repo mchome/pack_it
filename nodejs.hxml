@@ -1,0 +1,5 @@
+## target nodejs
+-lib hxnodejs
+-js dist/packit.js
+-cp packer
+packer.Packer

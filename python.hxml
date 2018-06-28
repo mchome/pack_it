@@ -1,0 +1,4 @@
+## target python
+-python dist/packit.py
+-cp packer
+packer.Packer
